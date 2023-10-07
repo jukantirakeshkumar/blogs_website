@@ -42,7 +42,7 @@ function registerFormSubmit(e) {
     }
   });
 
-  window.location.href = "C:/Users/Asus/OneDrive/Documents/rakesh/project/User-Form-main/User-Form-main/index.html";
+  window.location.href = "/index.html";
 
   // Above is just a sample, just edit and do waht you like.
 }
